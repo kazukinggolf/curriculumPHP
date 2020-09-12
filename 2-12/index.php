@@ -6,7 +6,7 @@
     <input type="radio" name="freebie" value="B賞" >B賞
     <input type="radio" name="freebie" value="C賞" >C賞
 <br>
-    年齢：
+    個数：
     <select name="number">
       <option value="1">1</option>
       <option value="2">2</option>
